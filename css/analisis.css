@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fondo{
+    background-image: url(../img/paisajeLamborghini.png);
+    width: 700px;
+    height: 850px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.F40{
+    padding-top: 20px;
+    font-size: 40px;
+    font-weight: 800;
+    color: black;
+    padding-bottom: 35px;
+    margin-left: 220px;
+}
+.F40 img{
+    width: 40px;
+    height: 60px;
+    object-fit: cover;
+}
+.carFerrari img{
+    width: 500px;
+    height: 170px;
+    object-fit: cover;
+    border-radius: 9px;
+}
+.carFerrari{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+    width: 520px;
+    height: 200px;
+    border-radius: 9px;
+    padding-top: 16px;
+    margin-left: 87px;
+}
+.identificadores{
+    border-radius: 9px;
+    width: 650px;
+    height:fit-content;
+    background-color: antiquewhite;
+    margin-top: 19px;
+    margin-left: 23px;
+}
+ul li samp{
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li{
+    font-size: 13px;
+}
+.motor{
+    z-index: 9;
+    width: 200px;
+    height: 200px;
+    /* object-fit: cover; */
+}
+.motor img{
+    border-radius: 10px;
+    z-index: 4;
+    background-size: cover;
+}
+.parejar{
+    padding-top: 39px;
+    display: flex;
+    justify-content: space-around;
+}
+.fer{
+    padding-top: 25px;
+    font-weight: 800;
+    font-size: 30px;
+}
+.poder{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.carFerrari1 img{
+    object-fit: cover;
+    height: 160px;
+    width: 130px;
+    border-radius: 10px;
+}
